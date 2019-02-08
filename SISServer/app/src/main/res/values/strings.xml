@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SISServer</string>
+    <string name="title_sisclient_detail">SISClient Detail</string>
+    <string name="ok">OK</string>
+</resources>
