@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SISPrjRemote</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="server_ip_value">10.0.2.15</string>
+    <string name="server_ip">Server IP</string>
+    <string name="server_port_value">8000</string>
+    <string name="server_port">Server Port</string>
+    <string name="fresh_rate_value">3000</string>
+    <string name="fresh_rate">Fresh Rate</string>
+    <string name="reset">RESET</string>
+
+    <string name="scope_value">SIS</string>
+    <string name="scope">Scope</string>
+
+    <string name="message_type">Message Type</string>
+    <string name="message_type_register">Register</string>
+    <string name="message_type_reading">Reading</string>
+    <string name="role">Password</string>
+    <string name="role_advertiser">password</string>
+    <string name="name">Name(Sender)</string>
+    <string name="name_value">PrjRemote</string>
+    <string name="sender">Sender</string>
+    <string name="sender_value">Sender</string>
+    <string name="receiver">Receiver</string>
+    <string name="receiver_value">Receiver</string>
+    <string name="message_content">Message</string>
+    <string name="message_content_value">Message</string>
+
+    <string name="attribute_key">Attribute Key</string>
+    <string name="attribute_value">Attribute Value</string>
+    <string name="attribute_button">Add Attr</string>
+</resources>
